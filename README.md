@@ -1,4 +1,4 @@
-<img src="https://yhist github.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+https://capsule-render.vercel.app/api?
 
 
 - 👋 Hi, I’m @yhist
