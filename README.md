@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<a>dd</a>
+<a><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+</a>
 
 <!---
 yhist/yhist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
