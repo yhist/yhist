@@ -46,7 +46,7 @@
 </div>
 
 <div align=center>
-	<img src="[https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=onedark)">
+	<img src="https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=onedark">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhist&layout=compact">
 	<br>
 	![Yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=onedark)
