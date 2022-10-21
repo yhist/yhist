@@ -38,10 +38,13 @@
 		<img src="https://img.shields.io/badge/Portfolio-F06B66?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:yhyh0903@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-43B1B0?style=flat&logo=Gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mail-43B1B0?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/y__hi.st/">
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<br>
 </div>
