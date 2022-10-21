@@ -52,8 +52,11 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhist&layout=compact">
 	
 ![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=dracula)
-	![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=radical)
-
+![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=cobalt)
+![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=synthwave)
+![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=highcontrast)
+![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=onedark)
+![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=radical)
 
 </div>
 
