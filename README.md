@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=capsule%fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Yhist Github!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
+data-canonical-src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient"
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!---
