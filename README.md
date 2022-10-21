@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github&fontSize=80)
 <div align=center>
-	<h2>Welcome to my github!👋🏻<h2>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github&fontSize=80">
 </div>
+<div aling=center><h2 style="border-bottom: none">Welcome to my github!👋🏻<h2></div>
+	
 <br>
+	
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
