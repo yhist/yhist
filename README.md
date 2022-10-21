@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Yhist Github!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 <!---
 yhist/yhist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
