@@ -42,8 +42,8 @@
 	<a href="#" target="_blank">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/y__hi.st/" target="_blank">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	<a href="https://open.kakao.com/o/sXrenCHe" target="_blank">
+	<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white" />
 	</a>
 	<br>
 </div>
