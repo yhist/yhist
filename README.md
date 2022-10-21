@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github!&fontSize=80">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github!&fontSize=70">
 </div>
 	<h1 align=center> Welcome to my github!👋🏻 <h1>	
 <br>
@@ -39,7 +39,7 @@
 	<a href="mailto:yhyh0903@gmail.com">
 	<img src="https://img.shields.io/badge/Mail-43B1B0?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="#" target="_blank">
+	<a href="#">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<a href="https://open.kakao.com/o/sXrenCHe" target="_blank">
