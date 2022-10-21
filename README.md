@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github&fontSize=80)
 
-
+<div align-"center">
 <a style=>Welcome to my github!👋🏻</a>
-
+</div>
+<br>
 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 <div align=center>
@@ -50,13 +51,7 @@
 <div align=center>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhist&layout=compact">
-	
-![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=dracula)
-![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=cobalt)
-![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=synthwave)
-![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=highcontrast)
 ![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=onedark)
-![yhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true&theme=radical)
 
 </div>
 
