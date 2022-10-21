@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github&fontSize=80)
 
-<div align=center>
-<h1>Welcome to my github!👋🏻<h1>
-</div>
+<h1 align=center>Welcome to my github!👋🏻<h1>
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -47,9 +45,9 @@
 </div>
 
 <div align=center>
-	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=yhist&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhist&layout=compact">
+	<br>
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
