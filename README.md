@@ -35,10 +35,10 @@
 </div>
 <div align=center>
 	<a href="https://yhist.github.io/">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Portfolio-F06B66?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:yhyh0903@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-43B1B0?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="#">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
