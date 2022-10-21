@@ -27,7 +27,7 @@
 
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 How to reacj me 🎨</p>
 </div>
 <div align=center>
 	<a href="https://yhist.github.io/">
