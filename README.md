@@ -33,7 +33,7 @@
 	<p>🎨 How to reach me 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yhist.github.io/">
+	<a href="https://yhist.github.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-F06B66?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:yhyh0903@gmail.com">
