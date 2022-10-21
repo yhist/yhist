@@ -27,7 +27,7 @@
 
 <br>
 <div align=center>
-	<p>🎨 How to reacj me 🎨</p>
+	<p>🎨 How to reach me 🎨</p>
 </div>
 <div align=center>
 	<a href="https://yhist.github.io/">
@@ -44,6 +44,8 @@
 	</a>
 	<br>
 </div>
+
+<br>
 
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhist&layout=compact">
