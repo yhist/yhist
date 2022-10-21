@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github&fontSize=80)
-
-<h1 align=center>Welcome to my github!👋🏻<h1>
+<div align=center>
+	<h1 align=center>Welcome to my github!👋🏻<h1>
+</div>
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
