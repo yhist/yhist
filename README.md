@@ -1,7 +1,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yhist%20Github!&fontSize=70">
 </div>
-	<h1 align=center> Welcome to my github!👋🏻 <h1>	
+	<h1 align=center> Welcome to my github!👋🏻👩🏻‍💻 <h1>	
 <br>
 	
 <div align=center>
@@ -27,7 +27,7 @@
 
 <br>
 <div align=center>
-	<p>🎨 How to reach me 🎨</p>
+	<p>🙌 How to reach me 🙌</p>
 </div>
 <div align=center>
 	<a href="https://yhist.github.io/" target="_blank">
